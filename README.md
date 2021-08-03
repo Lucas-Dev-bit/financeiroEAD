@@ -2,20 +2,23 @@
 
 <h2>Meu Primeiro Projeto
 
-<h1 align="center">Projeto FinanceiroWEB</h1>
+<h1>Projeto FinanceiroWEB</h1>
 
-<p align="center"> FinanceiroWEB - projeto básico, voltado para facilitar o balanço financeiro da empresa, mostrando um controle de entradas e saídas.</p>
+<p> FinanceiroWEB - projeto básico, voltado para facilitar o balanço financeiro da empresa, mostrando um controle de entradas e saídas.</p>
 
- <h1 align="center">Conteúdos</h1>
+ <h1>Conteúdos</h1>
  
- <h1 align="center">Status do Projeto</h1>
-<h4 align="center"> 
+ <h1>Status do Projeto</h1>
+<h4> 
 	Finalizado
 </h4>
 
-  <h1 align="center">Features</h1>
- - [x] Cadastro de usuário
- - [x] Cadastro de categoria
- - [x] Cadastro de empresas
- - [x] Cadastro de conta
- - [x] Realizar movimento
+  <h1>Features</h1>
+	<ul>
+		<li>Cadastro de usuário</li>
+		<li>Cadastro de categoria</li>
+		<li>Cadastro de empresas</li>
+		<li>Cadastro de conta</li>
+		<li>Realizar movimento</li>
+	</ul>
+

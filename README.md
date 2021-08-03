@@ -16,9 +16,30 @@
   <h1>Features</h1>
 	<ul>
 		<li>Cadastro de usuário</li>
+			<ul>
+				<li>Alterar</li>
+				<li>Excluir</li>
+			</ul>
 		<li>Cadastro de categoria</li>
+		<ul>
+				<li>Alterar</li>
+				<li>Excluir</li>
+			</ul>
 		<li>Cadastro de empresas</li>
+		<ul>
+				<li>Alterar</li>
+				<li>Excluir</li>
+			</ul>
 		<li>Cadastro de conta</li>
+		<ul>
+				<li>Alterar</li>
+				<li>Excluir</li>
+			</ul>
 		<li>Realizar movimento</li>
+		<ul>
+				<li>Alterar</li>
+				<li>Excluir</li>
+				<li>Pesquisar por período</li>
+			</ul>
 	</ul>
 
